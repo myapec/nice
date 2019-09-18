@@ -10,6 +10,8 @@ public class SayYes {
 		System.out.println("ttttt");
 		System.out.println("rrrrr");
 		System.out.println("vau.b a");
+		System.out.println("yy");
+		
 		
 
 	}
