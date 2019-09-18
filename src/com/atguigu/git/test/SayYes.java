@@ -8,10 +8,7 @@ public class SayYes {
 		System.out.println("vvv");
 		System.out.println("nnnn");
 		System.out.println("ttttt");
-		System.out.println("kkkk");
-		System.out.println("wwwwwwwwwwwwww");
-		System.out.println("vv");
-		
+		System.out.println("rrrrr");
 		
 
 	}
