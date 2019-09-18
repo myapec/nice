@@ -9,6 +9,7 @@ public class SayYes {
 		System.out.println("nnnn");
 		System.out.println("ttttt");
 		System.out.println("rrrrr");
+		System.out.println("vau.b a");
 		
 
 	}
